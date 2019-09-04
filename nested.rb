@@ -81,6 +81,7 @@ def adding_matz
         }
      }
   programmer_hash[:new_pair] = "5"
+  programmer_hash
     
 end
 
